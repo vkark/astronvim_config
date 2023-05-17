@@ -50,7 +50,13 @@ return {
     },
     -- enable servers that you already have installed without mason
     servers = {
-      -- "pyright"
+    "bashls", 
+    "clangd",
+    "pylsp", 
+    "rust_analyzer", 
+    "taplo", 
+    "texlab", 
+    "yamlls",
     },
   },
 
