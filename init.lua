@@ -50,13 +50,14 @@ return {
     },
     -- enable servers that you already have installed without mason
     servers = {
-    "bashls", 
-    "clangd",
-    "pylsp", 
-    "rust_analyzer", 
-    "taplo", 
-    "texlab", 
-    "yamlls",
+      "bashls",
+      "clangd",
+      "lua_ls",
+      "pylsp",
+      "rust_analyzer",
+      "taplo",
+      "texlab",
+      "yamlls",
     },
   },
 
