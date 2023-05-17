@@ -8,6 +8,7 @@ return {
       "c",
       "cmake",
       "cpp",
+      "glsl",
       "julia",
       "kdl",
       "latex",
