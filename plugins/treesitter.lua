@@ -13,6 +13,7 @@ return {
       "kdl",
       "latex",
       "lua",
+      "markdown",
       "matlab",
       "meson",
       "python",
