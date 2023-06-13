@@ -17,6 +17,7 @@ return {
       "matlab",
       "meson",
       "python",
+      "r"
       "rust",
       "sql",
       "toml",
