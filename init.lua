@@ -53,7 +53,7 @@ return {
       "bashls",
       "clangd",
       "lua_ls",
-      "pylsp",
+      "ruff-lsp",
       "rust_analyzer",
       "taplo",
       "texlab",
